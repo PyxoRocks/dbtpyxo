@@ -2,7 +2,7 @@ select
 customer_id,
 organization_id,
 party_id,
-time as temps,
+time as time,
 event,
 type,
 source
